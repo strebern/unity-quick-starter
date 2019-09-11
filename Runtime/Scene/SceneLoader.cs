@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.SceneManagement;
 
-namespace QuickStarter
+namespace QuickStarter.Scene
 {
     public class SceneLoader : MonoBehaviour
     {
