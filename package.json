@@ -1,0 +1,16 @@
+{
+    "name": "com.shashimee.quickstarter",
+    "version": "1.0.0",
+    "displayName": "Quick Starter",
+    "description": "A Unity package full of useful scripts to quickly start projects.",
+    "unity": "2018.2",
+   "keywords": [
+      "scripts",
+      "quickstart",
+      "tools"
+    ],
+    "author": {
+      "name": "Shashimee",
+      "email": "simon.trebern@outlook.com"
+    } 
+  }
