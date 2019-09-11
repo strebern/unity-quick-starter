@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Common.Graphics
+namespace QuickStarter.Graphics
 {
     public class ShaderVariablesUpdater : MonoBehaviour
     {

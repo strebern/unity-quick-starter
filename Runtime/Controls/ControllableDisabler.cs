@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Common.Controls
+namespace QuickStarter.Controls
 {
     public class ControllableDisabler : MonoBehaviour
     {

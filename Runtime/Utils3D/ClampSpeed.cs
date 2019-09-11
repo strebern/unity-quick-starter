@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using UnityEngine;
 
-namespace Common.Physics3D
+namespace QuickStarter.Physics3D
 {
     [DisallowMultipleComponent]
     public class ClampSpeed : MonoBehaviour

@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Common
+namespace QuickStarter
 {
     [RequireComponent(typeof(ParticleSystem))]
     [RequireComponent(typeof(ParticleSystemRenderer))]

@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Common.Physics3D
+namespace QuickStarter.Physics3D
 {
     [DisallowMultipleComponent]
     public class Hovering : MonoBehaviour

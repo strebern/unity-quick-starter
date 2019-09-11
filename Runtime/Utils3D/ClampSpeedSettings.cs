@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Common.Physics3D
+namespace QuickStarter.Physics3D
 {
     [CreateAssetMenu(menuName = "Physics3D/ClampSpeedSettings", fileName = "ClampSpeedSettings")]
     public class ClampSpeedSettings : ScriptableObject

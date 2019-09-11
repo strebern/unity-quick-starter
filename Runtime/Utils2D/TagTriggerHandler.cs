@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
-using Common.Events;
+using QuickStarter.Events;
 
-namespace Common.Utils2D
+namespace QuickStarter.Utils2D
 {
     [RequireComponent(typeof(Collider2D))]
     public class TagTriggerHandler : MonoBehaviour

@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Common.TransformUtils
+namespace QuickStarter.TransformUtils
 {
     [CreateAssetMenu(menuName = "TransformUtils/ScaleModifierSettings", fileName = "ScaleModifierSettings")]
     public class ScaleModifierSettings : ScriptableObject

@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.Events;
 
-namespace Common.Physics3D
+namespace QuickStarter.Physics3D
 {
     [DisallowMultipleComponent]
     public class GroundCondition : MonoBehaviour

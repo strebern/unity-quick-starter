@@ -2,7 +2,7 @@
 using UnityEngine.Assertions;
 using UnityEngine.Audio;
 
-namespace Common.Audio
+namespace QuickStarter.Audio
 {
     public class SnapshotController : MonoBehaviour
     {

@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Common.GameObjectUtils
+namespace QuickStarter.GameObjectUtils
 {
     public class ObjectDestroyer : MonoBehaviour
     {

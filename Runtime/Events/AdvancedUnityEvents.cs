@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.Events;
 
-namespace Common.Events
+namespace QuickStarter.Events
 {
     // ADVANCED PRIMITIVE EVENTS
 

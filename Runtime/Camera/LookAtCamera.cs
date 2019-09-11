@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Common.CameraUtils
+namespace QuickStarter.CameraUtils
 {
     [DisallowMultipleComponent]
     public class LookAtCamera : MonoBehaviour

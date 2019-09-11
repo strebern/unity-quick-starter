@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Common.Pattern
+namespace QuickStarter.Pattern
 {
     public interface IObserver
     {

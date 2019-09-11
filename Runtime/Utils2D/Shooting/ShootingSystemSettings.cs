@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Common.Utils2D.Shooting
+namespace QuickStarter.Utils2D.Shooting
 {
     [CreateAssetMenu(menuName = "Shooting/ShootingSystemSettings", fileName = "ShootingSystemSettings")]
     public class ShootingSystemSettings : ScriptableObject

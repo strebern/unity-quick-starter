@@ -3,7 +3,7 @@ using UnityEngine;
 using TMPro;
 using System;
 
-namespace Common.UI
+namespace QuickStarter.UI
 {
     public class TimerUpdater : MonoBehaviour
     {

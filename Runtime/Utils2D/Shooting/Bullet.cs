@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Common.Utils2D.Shooting
+namespace QuickStarter.Utils2D.Shooting
 {
     [DisallowMultipleComponent]
     public class Bullet : MonoBehaviour

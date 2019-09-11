@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using UnityEngine;
 
-namespace Common.Utils2D.Shooting
+namespace QuickStarter.Utils2D.Shooting
 {
     [DisallowMultipleComponent]
     [RequireComponent(typeof(Collider2D))]

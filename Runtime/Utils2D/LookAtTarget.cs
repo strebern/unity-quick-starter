@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Common.Utils2D
+namespace QuickStarter.Utils2D
 {
     [DisallowMultipleComponent]
     public class LookAtTarget : MonoBehaviour

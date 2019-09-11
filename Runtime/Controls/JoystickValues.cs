@@ -1,4 +1,4 @@
-﻿namespace Common.Controls
+﻿namespace QuickStarter.Controls
 {
     public class JoystickValues
     {

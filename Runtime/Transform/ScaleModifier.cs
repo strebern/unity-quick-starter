@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Common.TransformUtils
+namespace QuickStarter.TransformUtils
 {
     public class ScaleModifier : MonoBehaviour
     {
