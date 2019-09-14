@@ -1,6 +1,6 @@
 {
     "name": "com.shashimee.quickstarter",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "displayName": "Quick Starter",
     "description": "A Unity package full of useful scripts to quickly start projects.",
     "unity": "2018.2",
